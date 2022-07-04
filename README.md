@@ -10,7 +10,6 @@ Web Dev recent graduate from [Le Wagon's Coding Bootcamp](https://www.lewagon.co
 *   🌍  I'm based in Araras, SP - Brasil
 *   ✉️  You can contact me at [brancasdc@gmail.com](mailto:brancasdc@gmail.com)
 *   🤓  I'm currently improving my knowledge of English
-*   🚀  I'm very interested in deeping my knowledge of the JavaScript universe
 
  ### Skills and Tools
 <p align="left">
