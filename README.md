@@ -5,11 +5,9 @@ I'm Branca!
 Full Stack Developer
 --------------------
 
-Web Dev recent graduate from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/) and working in my first opportunity. Learning and developing more every day.
+Web Dev graduate from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/) with 1 year's experience and open to work! Keep learning and developing more every day.
 
-*   🌍  I'm based in Araras, SP - Brasil
 *   ✉️  You can contact me at [brancasdc@gmail.com](mailto:brancasdc@gmail.com)
-*   🤓  I'm currently improving my knowledge of English
 
  ### Skills and Tools
 <p align="left">
